@@ -1,0 +1,167 @@
+{
+  "currentPage": 1,
+  "pageSize": 250,
+  "totalPages": 1,
+  "totalRecords": 12,
+  "hasPrevious": false,
+  "hasNext": false,
+  "data": [
+    {
+      "time": "2023-10-10T21:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.5336,
+        "isValid": true,
+        "delta": 0.008600000000001273
+      },
+      "state": "Good",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-10T20:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.525,
+        "isValid": true,
+        "delta": 0.02360000000000184
+      },
+      "state": "Danger",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-10T19:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.51,
+        "isValid": true,
+        "delta": 0.020000000000010232
+      },
+      "state": "Danger",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-10T18:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.5136,
+        "isValid": true,
+        "delta": 0.015600000000006276
+      },
+      "state": "Good",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-10T17:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.518,
+        "isValid": true,
+        "delta": 0.017900000000011573
+      },
+      "state": "Good",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-10T16:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.5157,
+        "isValid": true,
+        "delta": 0.020600000000001728
+      },
+      "state": "Danger",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-10T15:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.513,
+        "isValid": true,
+        "delta": 0.01860000000000639
+      },
+      "state": "Good",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-05T19:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.515,
+        "isValid": true,
+        "delta": 0.021000000000000796
+      },
+      "state": "Danger",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-04T18:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.5126,
+        "isValid": true,
+        "delta": 0.015600000000006276
+      },
+      "state": "Good",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-03T17:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.518,
+        "isValid": true,
+        "delta": 0.02190000000000225
+      },
+      "state": "Danger",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-02T16:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.5117,
+        "isValid": true,
+        "delta": 0.020600000000001728
+      },
+      "state": "Danger",
+      "criticalDelta": 0.02
+    },
+    {
+      "time": "2023-10-01T15:00:00Z",
+      "objectId": "708df69f-21f4-4374-a71d-6ffb489ab154",
+      "sensorType": "DeformationControl",
+      "status": true,
+      "data": {
+        "value": 69.513,
+        "isValid": true
+      },
+      "state": "Good",
+      "criticalDelta": 0.02
+    }
+  ],
+  "succeeded": true,
+  "errors": []
+}
